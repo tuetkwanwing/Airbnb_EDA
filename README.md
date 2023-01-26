@@ -1,4 +1,4 @@
-# Prateek_Airbnb_NYC_Project
+# Kwan_Airbnb_NYC_Project
 BA775 Subject Of Questrom School Of Business, Boston University, 
 <br>Done under Prof. Mohammad Soltanieh Ha,  as EDA for AIRBNB IN NYC 
 Dated 20th Oct 2022.
